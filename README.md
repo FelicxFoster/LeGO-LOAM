@@ -156,11 +156,3 @@ An optimized version of LeGO-LOAM can be found [here](https://github.com/faconti
     + To convert a multi-process application into a single-process / multi-threading one; this makes the algorithm more deterministic and slightly faster.
     + To make it easier and faster to work with rosbags: processing a rosbag should be done at maximum speed allowed by the CPU and in a deterministic way.
     + As a consequence of the previous point, creating unit and regression tests will be easier.
-
-=======
-
-# Lego_Loam_Modify
-
-修改LeGO-LOAM，适配Robosense
-
->>>>>>> da397a4fed4c847cf246ac3477fc748dc1d9c48e
